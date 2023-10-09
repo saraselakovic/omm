@@ -1,5 +1,5 @@
 ## **Project parachutist-model**
-The first part of the project is to set up mathematical model of a parachutist with a mass of 90kg, which jumps out of an airplane at a height H. The second part of the project is to write functions visine.h and grafik.h. Funciton visine.h calculates the smallest heights h for opening parachute that guarantee a safe landing for given values of H. Function grafik.h draws a graph of the dependence of speed on time for given value H.
+The first part of the project is to set up mathematical model of a parachutist with a mass of 90kg, which jumps out of an airplane at a height H. The second part of the project is to write functions in files visine.m and grafik.m. Funciton in file visine.m calculates the smallest heights h for opening parachute that guarantee a safe landing for given values of H. Function in file grafik.m draws a graph of the dependence of speed on time for given value H.
 
 ### Running the application:
 1. Make sure you have MATLAB installed.
