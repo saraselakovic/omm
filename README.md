@@ -13,6 +13,6 @@ The first part of the project is to set up mathematical model of a parachutist w
 * After that, you will get the values of h for that range and a graph of dependence of h on H.  <br /> <br />
   
 * Function *grafik(H)* receives one argument *H* for which you want to get a graph of the dependence of speed on time.
-* Choose the value of argument *H* and call function *grafik(H)* for that H.
+* Choose the value of argument *H* and call function *grafik(H)* for that *H*.
 * After that, you will get the graph of the dependence of speed on time for that H.
 
