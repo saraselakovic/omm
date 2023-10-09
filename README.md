@@ -5,6 +5,6 @@ The first part of the project is to set up mathematical model of a parachutist w
 
 
 ### Usage:
-1. Function *visine(H_start, H_step, H_and)* receives three arguments that describe in which interval [*H_start*, *H_end*] and with what step *H_step* we want to calculate the values of h for the values of H from the given interval.
+1. Function *visine(H_start, H_step, H_and)* receives three arguments that describe in which interval [ *H_start*, *H_end* ] and with what step *H_step* we want to calculate the values of h for the values of H from the given interval.
 2. Choose the values of arguments *H_start, H_step, H_end* and call function *visine(H_start, H_step, H_end)* for that arguments.
 
