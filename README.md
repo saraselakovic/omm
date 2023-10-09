@@ -5,10 +5,10 @@ The first part of the project is to set up mathematical model of a parachutist w
 1. Make sure you have MATLAB installed.
 2. Clone this project.
 3. Go to the project root folder and open files visine.m and grafik.m in MATLAB.
-4. Call the functions as described in *Usage* section.
+4. Call the functions as described in [*Usage*](https://github.com/saraselakovic/parachutist-model#usage) section.
 
 ### Usage:
-* Function *visine(H_start, H_step, H_and)* receives three arguments that describe in which interval [*H_start*, *H_end*] and with what step *H_step* you want to calculate the values of h for the values of H from the given interval.
+* Function *visine(H_start, H_step, H_and)* receives three arguments that describe in which interval \[*H_start*, *H_end*] and with what step *H_step* you want to calculate the values of h for the values of H from the given interval.
 * Choose the values of arguments *H_start, H_step, H_end* and call function *visine(H_start, H_step, H_end)* for that arguments.
 * After that, you will get the values of h for that range and a graph of dependence of h on H.  <br /> <br />
   
