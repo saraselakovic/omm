@@ -4,7 +4,7 @@ The first part of the project is to set up mathematical model of a parachutist w
 ### Running the application:
 1. Make sure you have MATLAB installed.
 2. Clone this project.
-3. Go to the project root folder and open functions visine.h and grafik.h in MATLAB.
+3. Go to the project root folder and open files visine.m and grafik.m in MATLAB.
 4. Call the functions as described in *Usage* section.
 
 ### Usage:
