@@ -2,7 +2,10 @@
 The first part of the project is to set up mathematical model of a parachutist with a mass of 90kg, which jumps out of an airplane at a height H. The second part of the project is to write functions visine.h and grafik.h. Funciton visine.h calculates the smallest heights h for opening parachute that guarantee a safe landing for given values of H. Function grafik.h draws a graph of the dependence of speed on time for given value H.
 
 ### Running the application:
-
+1. Make sure you have MATLAB installed.
+2. Clone this project.
+3. Go to
+4. Call the functions as described in Usage section.
 
 ### Usage:
 * Function *visine(H_start, H_step, H_and)* receives three arguments that describe in which interval [*H_start*, *H_end*] and with what step *H_step* you want to calculate the values of h for the values of H from the given interval.
