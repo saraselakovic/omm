@@ -1,7 +1,9 @@
 ## **Project parachutist-model**
-A parachutist with a mass of 90 kg jumps out of an airplane at a height H. Air resistance is proportional to the square of the speed of movement. 
-The limit speed of free fall of a parachutist without an open parachute is 50m/s, and with an open parachute 5m/s. The parachute opens instantly at a certain height h. 
-The safe landing speed is 10m/s. 
-Set up a mathematical model and, for various values of height H, calculate the smallest height h that guarantees a safe landing.
+The first part of the project is to set up mathematical model of a parachutist with a mass of 90kg, which jumps out of an airplane at a height H. The second part of the project is to write functions visine.h and grafik.h. Funciton visine.h calculates the smallest height h for opening parachute that guarantees a safe landing for given value H. Function grafik.h draws a graph of the dependence of speed on time for given value H.
 
-### Running the application
+### Running the application:
+
+
+### Usage:
+
+
